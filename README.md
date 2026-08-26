@@ -4,3 +4,7 @@ A front-end clone of the Amazon homepage, built to practice and showcase HTML an
 📸 Screenshot
 
 ![Amazon Clone Screenshot](Amazon-clone.png)
+
+##🛠️ Built With
+-HTML
+-CSS
