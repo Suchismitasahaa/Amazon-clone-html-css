@@ -18,6 +18,7 @@ A front-end clone of the Amazon homepage, built to practice and showcase HTML an
   - Built to improve HTML and CSS
   ## How to run the project
   * Clone the repository:
+    
        git clone https://github.com/Suchismitasahaa/Amazon-clone-html-css.git
   ## Author
     Suchismita Saha
